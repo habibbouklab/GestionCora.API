@@ -12,7 +12,6 @@ namespace Gestion.Cora.Restaurant.Domain.Entities
         public string Nom { get; set; }
         public int Calories { get; set; }
         public bool IsSelected { get; set; }
-        public bool IsFarineOrLait { get; set; }
 
     }
 }
