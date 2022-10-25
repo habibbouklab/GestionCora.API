@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{007F9301-26B6-4527-ACEC-66D6DE7C654F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E5D979E4-3799-49AC-972C-3BEAF0C0D2F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{52160DB0-7CAF-4B1C-B71E-4B1BC1ACBCFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{A0520626-C617-443B-B429-F52D48BA0DD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C149F36F-79EB-4DFB-B5E8-32AE5CA9660F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion.Cora.Restaurant.API", "Gestion.Cora.Restaurant.API\Gestion.Cora.Restaurant.API.csproj", "{FE46A984-7F3F-4AF1-B498-72E7ADEB3AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion.Cora.Restaurant.Application", "Gestion.Cora.Restaurant.Application\Gestion.Cora.Restaurant.Application.csproj", "{A23C2B0C-B4CF-4B5C-9E34-F277AD686097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion.Cora.Restaurant.Domain", "Gestion.Cora.Restaurant.Domain\Gestion.Cora.Restaurant.Domain.csproj", "{BBFE27A2-1196-4172-8EEF-074FAD6A54B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestion.Cora.Restaurant.Persistance", "Gestion.Cora.Restaurant.Persistance\Gestion.Cora.Restaurant.Persistance.csproj", "{81A58DA3-5206-40AD-B782-3EC0E8A87F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE46A984-7F3F-4AF1-B498-72E7ADEB3AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE46A984-7F3F-4AF1-B498-72E7ADEB3AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE46A984-7F3F-4AF1-B498-72E7ADEB3AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE46A984-7F3F-4AF1-B498-72E7ADEB3AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23C2B0C-B4CF-4B5C-9E34-F277AD686097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23C2B0C-B4CF-4B5C-9E34-F277AD686097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23C2B0C-B4CF-4B5C-9E34-F277AD686097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23C2B0C-B4CF-4B5C-9E34-F277AD686097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFE27A2-1196-4172-8EEF-074FAD6A54B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFE27A2-1196-4172-8EEF-074FAD6A54B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFE27A2-1196-4172-8EEF-074FAD6A54B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFE27A2-1196-4172-8EEF-074FAD6A54B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A58DA3-5206-40AD-B782-3EC0E8A87F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A58DA3-5206-40AD-B782-3EC0E8A87F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A58DA3-5206-40AD-B782-3EC0E8A87F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A58DA3-5206-40AD-B782-3EC0E8A87F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{52160DB0-7CAF-4B1C-B71E-4B1BC1ACBCFF} = {007F9301-26B6-4527-ACEC-66D6DE7C654F}
+		{A0520626-C617-443B-B429-F52D48BA0DD3} = {007F9301-26B6-4527-ACEC-66D6DE7C654F}
+		{C149F36F-79EB-4DFB-B5E8-32AE5CA9660F} = {007F9301-26B6-4527-ACEC-66D6DE7C654F}
+		{FE46A984-7F3F-4AF1-B498-72E7ADEB3AF1} = {52160DB0-7CAF-4B1C-B71E-4B1BC1ACBCFF}
+		{A23C2B0C-B4CF-4B5C-9E34-F277AD686097} = {A0520626-C617-443B-B429-F52D48BA0DD3}
+		{BBFE27A2-1196-4172-8EEF-074FAD6A54B9} = {A0520626-C617-443B-B429-F52D48BA0DD3}
+		{81A58DA3-5206-40AD-B782-3EC0E8A87F0C} = {C149F36F-79EB-4DFB-B5E8-32AE5CA9660F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4485AAF-1F8A-409D-ADAA-680AC99403BF}
+	EndGlobalSection
+EndGlobal

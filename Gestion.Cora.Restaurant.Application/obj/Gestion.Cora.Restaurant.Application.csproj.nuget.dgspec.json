@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Application\\Gestion.Cora.Restaurant.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Application\\Gestion.Cora.Restaurant.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Application\\Gestion.Cora.Restaurant.Application.csproj",
+        "projectName": "Gestion.Cora.Restaurant.Application",
+        "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Application\\Gestion.Cora.Restaurant.Application.csproj",
+        "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
+        "outputPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj": {
+                "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj"
+              },
+              "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Persistance\\Gestion.Cora.Restaurant.Persistance.csproj": {
+                "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Persistance\\Gestion.Cora.Restaurant.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj",
+        "projectName": "Gestion.Cora.Restaurant.Domain",
+        "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj",
+        "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
+        "outputPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Persistance\\Gestion.Cora.Restaurant.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Persistance\\Gestion.Cora.Restaurant.Persistance.csproj",
+        "projectName": "Gestion.Cora.Restaurant.Persistance",
+        "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Persistance\\Gestion.Cora.Restaurant.Persistance.csproj",
+        "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
+        "outputPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj": {
+                "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
