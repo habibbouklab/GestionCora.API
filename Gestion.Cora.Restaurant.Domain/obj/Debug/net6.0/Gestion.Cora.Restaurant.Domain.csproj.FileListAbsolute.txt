@@ -1,0 +1,12 @@
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\bin\Debug\net6.0\Gestion.Cora.Restaurant.Domain.deps.json
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\bin\Debug\net6.0\Gestion.Cora.Restaurant.Domain.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\bin\Debug\net6.0\Gestion.Cora.Restaurant.Domain.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.csproj.AssemblyReference.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.AssemblyInfoInputs.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.AssemblyInfo.cs
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.csproj.CoreCompileInputs.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\refint\Gestion.Cora.Restaurant.Domain.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\Gestion.Cora.Restaurant.Domain.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Domain\obj\Debug\net6.0\ref\Gestion.Cora.Restaurant.Domain.dll

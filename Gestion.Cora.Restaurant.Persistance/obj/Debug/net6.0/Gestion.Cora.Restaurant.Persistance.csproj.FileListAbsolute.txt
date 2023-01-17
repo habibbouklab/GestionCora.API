@@ -1,0 +1,15 @@
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\bin\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.deps.json
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\bin\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\bin\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\bin\Debug\net6.0\Gestion.Cora.Restaurant.Domain.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\bin\Debug\net6.0\Gestion.Cora.Restaurant.Domain.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.csproj.AssemblyReference.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.AssemblyInfoInputs.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.AssemblyInfo.cs
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.csproj.CoreCompileInputs.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.csproj.CopyComplete
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\refint\Gestion.Cora.Restaurant.Persistance.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\Gestion.Cora.Restaurant.Persistance.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Persistance\obj\Debug\net6.0\ref\Gestion.Cora.Restaurant.Persistance.dll

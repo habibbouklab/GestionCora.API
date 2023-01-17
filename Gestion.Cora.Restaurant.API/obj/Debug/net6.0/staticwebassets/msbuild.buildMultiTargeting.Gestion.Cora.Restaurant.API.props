@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gestion.Cora.Restaurant.API.props" />
+</Project>
