@@ -1,0 +1,17 @@
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Application.deps.json
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Application.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Application.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Domain.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Persistance.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Domain.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\bin\Debug\net7.0\Gestion.Cora.Restaurant.Persistance.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.csproj.AssemblyReference.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.AssemblyInfoInputs.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.AssemblyInfo.cs
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.csproj.CoreCompileInputs.cache
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.csproj.CopyComplete
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\refint\Gestion.Cora.Restaurant.Application.dll
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\Gestion.Cora.Restaurant.Application.pdb
+E:\Test Cora\BackEnd\Gestion.Cora.Restaurant\Gestion.Cora.Restaurant.Application\obj\Debug\net7.0\ref\Gestion.Cora.Restaurant.Application.dll

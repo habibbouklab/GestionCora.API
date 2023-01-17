@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net7.0": {
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
@@ -20,7 +20,7 @@
       },
       "Gestion.Cora.Restaurant.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Gestion.Cora.Restaurant.Domain.dll": {}
         },
@@ -30,7 +30,7 @@
       },
       "Gestion.Cora.Restaurant.Persistance/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Gestion.Cora.Restaurant.Domain": "1.0.0"
         },
@@ -81,7 +81,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net7.0": [
       "Gestion.Cora.Restaurant.Domain >= 1.0.0",
       "Gestion.Cora.Restaurant.Persistance >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0"
@@ -104,15 +104,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
             "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj": {
               "projectPath": "E:\\Test Cora\\BackEnd\\Gestion.Cora.Restaurant\\Gestion.Cora.Restaurant.Domain\\Gestion.Cora.Restaurant.Domain.csproj"
@@ -130,8 +130,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",

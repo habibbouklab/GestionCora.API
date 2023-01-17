@@ -107,7 +107,7 @@
       },
       "Gestion.Cora.Restaurant.Application/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Gestion.Cora.Restaurant.Domain": "1.0.0",
           "Gestion.Cora.Restaurant.Persistance": "1.0.0",
@@ -122,7 +122,7 @@
       },
       "Gestion.Cora.Restaurant.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Gestion.Cora.Restaurant.Domain.dll": {}
         },
@@ -132,7 +132,7 @@
       },
       "Gestion.Cora.Restaurant.Persistance/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Gestion.Cora.Restaurant.Domain": "1.0.0"
         },
